@@ -1,0 +1,1 @@
+git subtree add --prefix %1 ../%1 master --message="add %1 codelab"
